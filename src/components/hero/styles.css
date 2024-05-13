@@ -1,0 +1,16 @@
+.hero{
+    /* background-image: url("../images/photo-grid.png"); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content{
+    padding: 20px;
+
+}
+
+.hero-photo{
+    width: 90%;
+}
